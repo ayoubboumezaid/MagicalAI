@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368338122055",
+    "project_id": "magicalai",
+    "storage_bucket": "magicalai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368338122055:android:6f4134a611091505cec862",
+        "android_client_info": {
+          "package_name": "com.example.magicalia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRKaZP2bjrrSvOrMfcwcH0YUlAdZKUNa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
